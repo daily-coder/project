@@ -1,6 +1,9 @@
 body {
   margin: 0;
-  background: blueviolet;
   text-align: center;
   color: white;
+  background: blueviolet;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
